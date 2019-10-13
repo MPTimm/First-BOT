@@ -1,0 +1,14 @@
+C:\Users\Matheus\source\repos\PixelBot\PixelBot\bin\Debug\PixelBot.exe.config
+C:\Users\Matheus\source\repos\PixelBot\PixelBot\bin\Debug\PixelBot.exe
+C:\Users\Matheus\source\repos\PixelBot\PixelBot\bin\Debug\PixelBot.pdb
+C:\Users\Matheus\source\repos\PixelBot\PixelBot\obj\Debug\PixelBot.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\PixelBot\PixelBot\obj\Debug\MainWindow.g.cs
+C:\Users\Matheus\source\repos\PixelBot\PixelBot\obj\Debug\App.g.cs
+C:\Users\Matheus\source\repos\PixelBot\PixelBot\obj\Debug\PixelBot_MarkupCompile.cache
+C:\Users\Matheus\source\repos\PixelBot\PixelBot\obj\Debug\PixelBot_MarkupCompile.lref
+C:\Users\Matheus\source\repos\PixelBot\PixelBot\obj\Debug\MainWindow.baml
+C:\Users\Matheus\source\repos\PixelBot\PixelBot\obj\Debug\PixelBot.g.resources
+C:\Users\Matheus\source\repos\PixelBot\PixelBot\obj\Debug\PixelBot.Properties.Resources.resources
+C:\Users\Matheus\source\repos\PixelBot\PixelBot\obj\Debug\PixelBot.csproj.GenerateResource.cache
+C:\Users\Matheus\source\repos\PixelBot\PixelBot\obj\Debug\PixelBot.exe
+C:\Users\Matheus\source\repos\PixelBot\PixelBot\obj\Debug\PixelBot.pdb
